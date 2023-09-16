@@ -1,4 +1,4 @@
-# CSCI412 - Assignment 1
+# CSCI412 - Assignment 2
 This app meets the following criteria laid out in the instructions document:
 - You must use Android Studio to create the app
 - Must have at least two activities

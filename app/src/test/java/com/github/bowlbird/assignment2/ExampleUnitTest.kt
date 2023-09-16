@@ -1,4 +1,4 @@
-package com.github.bowlbird.assignment1
+package com.github.bowlbird.assignment2
 
 import org.junit.Test
 

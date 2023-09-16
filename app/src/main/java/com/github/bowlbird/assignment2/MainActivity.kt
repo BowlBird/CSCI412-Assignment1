@@ -1,4 +1,4 @@
-package com.github.bowlbird.assignment1
+package com.github.bowlbird.assignment2
 
 import android.content.Intent
 import android.os.Bundle
@@ -16,14 +16,13 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.tooling.preview.Preview
-import com.github.bowlbird.assignment1.ui.theme.Assignment1Theme
+import com.github.bowlbird.assignment2.ui.theme.Assignment2Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            Assignment1Theme {
+            Assignment2Theme {
                 // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),

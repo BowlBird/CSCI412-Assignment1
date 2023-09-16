@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.github.bowlbird.assignment1"
+    namespace = "com.github.bowlbird.assignment2"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.github.bowlbird.assignment1"
+        applicationId = "com.github.bowlbird.assignment2"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

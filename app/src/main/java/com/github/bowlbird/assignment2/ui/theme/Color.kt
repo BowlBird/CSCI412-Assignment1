@@ -1,4 +1,4 @@
-package com.github.bowlbird.assignment1.ui.theme
+package com.github.bowlbird.assignment2.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.github.bowlbird.assignment1
+package com.github.bowlbird.assignment2
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
